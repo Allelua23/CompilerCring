@@ -1,0 +1,16 @@
+const int a = 0;
+const int b = 9;
+const float c = 1;
+
+function Summ(int a, int b) {
+    print(a + b);
+}
+
+main() {
+    //print(a);
+    int d = 0;
+    Summ(d);
+    int n = d + a * 4;
+    print(n);
+}
+
