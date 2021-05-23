@@ -1,0 +1,14 @@
+const int a = 0;
+const float b = 0.3;
+const int c = a + b;
+
+function funcName(int a, int b) {
+    print(a + b);
+}
+
+main() {
+    int g = 34;
+    funcName(g);
+    int h = g + a * 3;
+    print(h);
+}
