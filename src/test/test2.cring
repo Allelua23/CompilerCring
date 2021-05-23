@@ -1,0 +1,10 @@
+main() {
+    int a = 0;
+    int b = 10;
+    if (true) {
+        int a = 1;
+        print(a);
+        print(b);
+    }
+    print(a);
+}
