@@ -10,16 +10,23 @@ asm-8.0.1 - для генерации байт-кода.
 Грамматику входного языка представляет файл cring.g4, находящийся в папке src/grammaric
 Пример программмы на созданном входном языке:
 
-![image](https://user-images.githubusercontent.com/82500140/118106471-4ff15c80-b3e6-11eb-849e-72f1a9095289.png)
+![image](https://user-images.githubusercontent.com/82500140/119269895-afc7de80-bc02-11eb-8ef7-539090c2249c.png)
+
+
 # 2.Пример дерева разбора
 На вход подается исходный код с циклом while:
 
-![image](https://user-images.githubusercontent.com/82500140/118106673-84651880-b3e6-11eb-94be-3876211d5d95.png)
+![image](https://user-images.githubusercontent.com/82500140/119269958-fb7a8800-bc02-11eb-8ee5-ee297c7e64fb.png)
 
 Дерево разбора:
 
-![image](https://user-images.githubusercontent.com/82500140/118106726-95ae2500-b3e6-11eb-8751-2fd249ae5484.png)
-# 3. Пример работы компилятора
-Здесь представлен скриншот с входными данными языка и выходными данными для JVM
+![image](https://user-images.githubusercontent.com/82500140/119269947-eb62a880-bc02-11eb-991f-08e2f06b1f7d.png)
 
-![image](https://user-images.githubusercontent.com/82500140/118107369-559b7200-b3e7-11eb-9deb-dc7296e67ea7.png)
+
+# 3. Пример работы компилятора
+Здесь представлены скриншоты с выходными данными для JVM
+
+![image](https://user-images.githubusercontent.com/82500140/119269971-0fbe8500-bc03-11eb-908d-6bd068cc1d74.png)
+
+![image](https://user-images.githubusercontent.com/82500140/119270021-4a282200-bc03-11eb-90bb-beb05c7c9ad3.png)
+
