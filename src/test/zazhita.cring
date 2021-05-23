@@ -1,4 +1,0 @@
-main() {
-    int stroka = 34;
-    float fros = 45.7;
-}

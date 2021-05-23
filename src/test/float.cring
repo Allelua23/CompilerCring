@@ -1,7 +1,0 @@
-main() {
-    int stroka = 34;
-    int fros = 45;
-    while (stroka > fros) {
-        print('f');
-    }
-}
